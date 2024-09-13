@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Docker_Concepts/static/css/main.2da96f81.css",
+    "main.js": "/Docker_Concepts/static/js/main.a8683c8a.js",
+    "static/js/453.333a15d2.chunk.js": "/Docker_Concepts/static/js/453.333a15d2.chunk.js",
+    "index.html": "/Docker_Concepts/index.html",
+    "main.2da96f81.css.map": "/Docker_Concepts/static/css/main.2da96f81.css.map",
+    "main.a8683c8a.js.map": "/Docker_Concepts/static/js/main.a8683c8a.js.map",
+    "453.333a15d2.chunk.js.map": "/Docker_Concepts/static/js/453.333a15d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da96f81.css",
+    "static/js/main.a8683c8a.js"
+  ]
+}
