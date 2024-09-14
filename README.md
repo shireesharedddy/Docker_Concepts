@@ -28,7 +28,7 @@ This project is a React-based web application that explains the core concepts of
 ## File Structure
 
 ```bash
-docker-concepts-web-app/
+Docker-Concepts/
 ├── public/
 │   ├── index.html
 │   └── favicon.ico
