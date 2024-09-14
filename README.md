@@ -2,6 +2,9 @@
 
 This project is a React-based web application that explains the core concepts of Docker, including important commands and key terminologies. It's designed to be informative and concise, making Docker easier to understand for new learners.
 
+![image](https://github.com/user-attachments/assets/ab2b69ef-6c02-4301-9fad-d870c049544a)
+
+
 ## LIVE DEMO
 
 - The project is live at https://shireesharedddy.github.io/Docker_Concepts/
