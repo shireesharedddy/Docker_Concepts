@@ -92,7 +92,20 @@ npm install gh-pages --save-dev
 
 ### 5. Add the following scripts to your package.json file:
 
-json
+## Updating `package.json` to include the homepage
+
+- To update your `package.json` to include the homepage for your project, follow these steps:
+
+1. Open the `package.json` file in your project.
+2. Add or modify the `"homepage"` field to include the link to your GitHub Pages site.
+
+Here’s how the updated `package.json` might look:
+
+```json
+{
+  "homepage": "https://<github username>.github.io/<github repository name>",
+  "name": "<github repository name in all lowercase>",
+  
 
 "scripts": {
   "predeploy": "npm run build",
