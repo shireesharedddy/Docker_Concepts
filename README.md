@@ -1,4 +1,5 @@
-# Docker Concepts Web App
+# Docker Concepts Web App - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 This project is a React-based web application that explains the core concepts of Docker, including important commands and key terminologies. It's designed to be informative and concise, making Docker easier to understand for new learners.
 
